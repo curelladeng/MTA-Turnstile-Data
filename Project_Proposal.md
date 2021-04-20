@@ -12,7 +12,7 @@ The following dataset will be used for the analysis:
 | --- | --- | --- |
 | data-by-day | https://github.com/nychealth/coronavirus-data/tree/master/trends | This dataset contains Covid trend data by borough |
 | turnstile_xxxxxx|  http://web.mta.info/developers/turnstile.html | Turnstiles location data and the weekly turnstile usage data |
-| NY Subway Geospatial Data| https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49 |
+| NY Subway Geospatial Data| https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49 | Geo information of subway stations in NY |
 
 The features that will be included in the analysis include:
  * Weekly Covid cases by boroughs from 2020-01-01 to 2021-03-31
