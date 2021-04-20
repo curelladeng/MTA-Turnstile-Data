@@ -23,6 +23,6 @@ The features that will be included in the analysis include:
 * SQLite
 
 ### MVP Goal
-Observe correlations between the subway usages and the COVID cases in NYC and by boroughs.
+Observe whether there's any correlation between the subway usages and the COVID cases in NYC and by boroughs.
 
 
