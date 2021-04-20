@@ -7,7 +7,7 @@ The NYC Department of Health and Mental Hygiene(NYC DOHMH) plans to provide some
  NYC Department of Health and Mental Hygiene(NYC DOHMH)
 
 ### Data Description
-The following dataset will be used for the analysis:
+The following datasets will be used for the analysis:
 | Dataset | Link | Data Description |
 | --- | --- | --- |
 | data-by-day | https://github.com/nychealth/coronavirus-data/tree/master/trends | This dataset contains Covid trend data by borough |
