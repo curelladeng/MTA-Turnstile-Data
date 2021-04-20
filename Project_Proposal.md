@@ -1,7 +1,7 @@
 ### Analysis Objective
 The NYC Department of Health and Mental Hygiene(NYC DOHMH) plans to provide some resources such as free masks, sanitizers and booklets with safety information in subway stations to protect riders' safeties during the Coronavirus pandemic time. 
 * Visualize the trends of Covid-19 confirmed cases by boroughs of NY.
-* Analyze the correlations between subway usages and the number of Covid cases confirmed by boroughs of NY.
+* Analyze correlations between subway usages and the number of Covid cases confirmed by boroughs of NY.
 
 ### Client Organization
  NYC Department of Health and Mental Hygiene(NYC DOHMH)
