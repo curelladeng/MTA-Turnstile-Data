@@ -4,7 +4,7 @@ The NYC Department of Health and Mental Hygiene(NYC DOHMH) plans to provide some
 * Analyze the correlations between subway usages and the number of Covid cases confirmed by boroughs of NY.
 
 ### Client Organization
- NYC Department of Health and Mental Hygiene(YC DOHMH)
+ NYC Department of Health and Mental Hygiene(NYC DOHMH)
 
 ### Data Description
 The following dataset will be used for the analysis:
