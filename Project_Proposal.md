@@ -21,7 +21,7 @@ The features that will be included in the analysis include:
 ### Tools
 * Python3
 * SQLite
-* Possible of using Tableau
+
 
 ### MVP Goal
 Observe correlations between the subway usages and the COVID cases in NYC and by boroughs.
