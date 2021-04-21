@@ -15,8 +15,8 @@ The following datasets will be used for the analysis:
 | NY Subway Geospatial Data| https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49 | Geo information of subway stations in NY |
 
 The features that will be included in the analysis:
- * Weekly Covid cases by boroughs from 2020-01-01 to 2021-03-31
- * Weekly turnstile entries by borough from 2020-01-01 to 2021-03-31
+ * Weekly Covid cases by boroughs of the latest 52 weeks
+ * Weekly turnstile entries by boroughs of the latest 52 weeks
 
 ### Tools
 * Python3
