@@ -1,5 +1,5 @@
 ### Analysis Objective
-As the spread of Covid-19, the NYC Department of Health and Mental Hygiene(NYC DOHMH) is planning to provide some Covid Hygiene kits which include a mask, a sanitizer and a booklet with health guidance in subway stations to protect the public's health against Covid. In order to better allocate those resources, we'd like to:
+The NYC Department of Health and Mental Hygiene (NYC DOHMH) is planning to support the city’s reopening. And they want to launch a “Fight For Covid” campaign by providing Covid Hygiene kits in some public areas, such as subway stations. By doing this, they want to remind people to keep following pandemic rules during reopening phases. In order to find target subway stations, we'd like to:
 * Visualize the trends of Covid-19 cases in NY and by boroughs.
 * Analyze the correlations between subway usages and the number of Covid cases in NY and by boroughs.
 
