@@ -39,3 +39,5 @@ The correlation was calculate by different timings by boroughs:
 
 ## Communication
 In addition to the slides and visuals presented, it will be embedded on my analytic blog.
+
+<img src="Project_Pic.png" width=500>
