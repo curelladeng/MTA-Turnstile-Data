@@ -2,7 +2,7 @@
 Wenting Deng
 
 ## Abstract
-The goal of this project was to analyze the correlations between subway entries and Covid cases, in order to evaluate whether it would be helpful for the NYC Department of Health and Mental Hygiene to provide COVID health kits in subway stations, to help protect public health against COVID during the city's reopening period. If so, which stations should they target. I used [MTA-Turnstile-Data](http://web.mta.info/developers/turnstile.html) combined with [MTA-Location-Data](https://atisdata.s3.amazonaws.com/Station/Stations.csv), [MTA_Remote_Complex_Mapping](https://github.com/qri-io/data-stories-scripts/blob/master/nyc-turnstile-counts/lookup/remote_complex_lookup.csv) and [Covid-Daily-Cases](https://github.com/nychealth/coronavirus-data/tree/master/trends), aggregated data into weekly count metrics and ran the correlations in total and by boroughs. By analyzing the correlations, I was able to help identify the target stations for NYC DOHMH.
+The goal of this project was to analyze the correlations between subway entries and Covid cases, in order to evaluate whether it would be helpful for the NYC Department of Health and Mental Hygiene to provide COVID health kits in subway stations, to help protect public health against COVID during the city's reopening period. If so, which stations should they target. I used [MTA-Turnstile-Data](http://web.mta.info/developers/turnstile.html) combined with [MTA-Location-Data](https://atisdata.s3.amazonaws.com/Station/Stations.csv), [MTA_Remote_Complex_Mapping](https://github.com/qri-io/data-stories-scripts/blob/master/nyc-turnstile-counts/lookup/remote_complex_lookup.csv) and [Covid-Daily-Cases](https://github.com/nychealth/coronavirus-data/tree/master/trends), aggregated data into weekly count metrics and ran the correlations in total and by boroughs. By analyzing the correlations and the growth of subway entries, I was able to help identify the target stations for NYC DOHMH.
 
 ## Design
 The project is for the NYC Department of Health and Mental Hygiene (NYC DOHMH). NYC DOHMH plans to provide some free COVID health kits in selected public areas in order to support the city's reopening. By doing this they also want to remind people to keep following pandemic rules during reopening phases. The correlations between foot traffic in subway stations (defined as subway entries) and the COVID cases could be an indicator to understand how would the COVID trend change as the outdoor foot traffic volume goes up. Thus to enable NYC DOHMH evaluate whether they should target subway stations. If so, which stations should be targeted.
@@ -32,6 +32,10 @@ The correlation was calculate by different timings by boroughs:
 | Manhattan| 0.66 | -0.66 |
 | Queens | 0.86 | -0.72|
 | Staten Island | 0.88 | -0.43|
+
+Findings:
+* The correlations changes from strong positive to strong negative indicate how people engaging with COVID may have changed.
+* The strong correlations observed in Lockdown Period validated the necessities of enforcing COVID protection actions. In order to select target stations to provide COVID health kits, the percent of foot traffic change during Reopening Period was taken into consideration. In each borough, In each borough, the top 5 stations with highest percent were selected as targets.
 
 **Tools**
 * SQLAlchemy, Pandas and Numpy for data manipulation and analysis
