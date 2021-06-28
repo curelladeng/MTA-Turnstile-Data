@@ -14,7 +14,7 @@ The weekly entries and Covid cases show a strong POSITIVE correlation with a lag
 The weekly entries and Covid cases show a strong Negative correlation with a lag of 1 week.
 
 
-The change of correlations indicates the way people engaging with Covid has changed. 
+#### The change of correlations indicates the way people engaging with Covid has changed. 
 
 
 ### Data Description
