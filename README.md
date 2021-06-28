@@ -2,7 +2,7 @@
 
 ### Analysis Objective
 This data EAD exercise is trying to combine NYC Covid data with MTA Turnstile data to:
-* Visualize the trends of Covid-19 cases in NY and in each borough.
+* Visualize the trend of Covid-19 cases in NY and in each borough.
 * Analyze the correlations between subway usages and the number of Covid cases in NY and in each borough.
 
 
