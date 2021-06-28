@@ -1,7 +1,5 @@
 # MTA-Turnstile-Data
 
-# MTA-Turnstile-Data
-
 ### Analysis Objective
 The NYC Department of Health and Mental Hygiene (NYC DOHMH) is planning to support the city’s reopening. And they want to launch a “Fight For Covid” campaign by providing Covid Hygiene kits in some public areas, such as subway stations. By doing this, they want to remind people to keep following pandemic rules during reopening phases. In order to find target subway stations, we'd like to:
 * Visualize the trends of Covid-19 cases in NY and by boroughs.
