@@ -7,10 +7,10 @@ This data EAD exercise is trying to combine NYC Covid data with MTA Turnstile da
 
 <img src="plots/plot.png" width=500>
 
-* Lockdown Phase (before 6/1/2020)
+* Lockdown Phase (before 6/1/2020)\
 The weekly entries and Covid cases show a strong POSITIVE correlation with a lag of 4 weeks.
 
-* Reopening Phase
+* Reopening Phase\
 The weekly entries and Covid cases show a strong Negative correlation with a lag of 1 week.
 
 
