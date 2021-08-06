@@ -1,7 +1,7 @@
 # Python Data EAD Exercise: MTA-Turnstile-Data
 
 ### Analysis Summary
-This data EAD exercise is trying to combine NYC Covid data with MTA Turnstile data to:
+This data EDA exercise is trying to combine NYC Covid data with MTA Turnstile data to:
 * Visualize the trend of Covid-19 cases in NY and in each borough.
 * Analyze the correlations between subway usages and the number of Covid cases in NY and in each borough.
 
